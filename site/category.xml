@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/info.bonjean.eclipse.consoleclear.feature_0.0.1.qualifier.jar" id="info.bonjean.eclipse.consoleclear.feature" version="0.0.1.qualifier">
+      <category name="info.bonjean.eclipse.consoleclear"/>
+   </feature>
+   <category-def name="info.bonjean.eclipse.consoleclear" label="ConsoleClear"/>
+</site>

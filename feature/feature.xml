@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="info.bonjean.eclipse.consoleclear.feature"
+      label="ConsoleClear"
+      version="0.0.1.qualifier"
+      provider-name="Julien Bonjean">
+
+   <plugin
+         id="info.bonjean.eclipse.consoleclear.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
