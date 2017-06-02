@@ -4,8 +4,9 @@
    <extension
          point="org.eclipse.ui.commands">
       <command
-            name="Clear Console"
-            id="command.clearconsole.id">
+            categoryId="org.eclipse.ui.category.views"
+            id="command.clearconsole.id"
+            name="Clear Console">
       </command>
    </extension>
 
