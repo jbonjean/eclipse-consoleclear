@@ -1,6 +1,6 @@
 # Eclipse ConsoleClear
 
-Very basic Eclipse plugin to clear the active console.
+Very basic Eclipse plugin to clear the active console using a shortcut key.
 
  * It is not battle tested and could contain some major bugs.
  * Only tested on Linux.
@@ -11,8 +11,8 @@ Eclipse update site: https://raw.githubusercontent.com/jbonjean/eclipse-update-s
 
 ## What does it do?
 
-The plugin adds a menu entry and a key shortcut (F10 by default) to clear the console.
-It will remove the console if the corresponding process is terminated.
+The plugin adds a menu entry and a shortcut key (F10 by default) to clear the console.
+Note: the console will be removed if the corresponding process is terminated.
 
 ## License
 
